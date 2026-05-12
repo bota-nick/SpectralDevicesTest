@@ -19,7 +19,7 @@ Exploration notebook for multispectral imagery from the Spectral Devices MSDC-2-
 
 ## Run on Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imampurwadi/SpectralDevicesTest/blob/main/explore.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bota-nick/SpectralDevicesTest/blob/main/explore.ipynb)
 
 ## Local setup
 
